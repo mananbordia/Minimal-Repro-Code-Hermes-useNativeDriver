@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "TimerApp",
+    "android": {
+      "jsEngine": "hermes",
+      "package": "com.test.timerapp"
+    }
+  }
+}
